@@ -54,7 +54,7 @@ params:
     profileMode:
           enabled: true
           title: Computational Geophysics Lab
-          subtitle: "Welcome to the Computational Geophysics Lab at Nanyang Technological University (NTU) and the Earth Observatory of Singapore (EOS). Our group develops and applies state-of-the-art simulations to address critical challenges in Geohazards and Geoenergy."
+          subtitle: "Welcome to the Computational Geophysics Lab at Nanyang Technological University (NTU) and the Earth Observatory of Singapore (EOS). Our group develops and applies state-of-the-art simulations to address critical challenges in Geohazards and Geoenergy systems monitoring."
           imageUrl: "cgl.jpeg"
           imageWidth: 160
           imageHeight: 160

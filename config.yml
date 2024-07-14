@@ -10,22 +10,22 @@ taxonomies:
     tag: tags
 
 menu:
-    main:
-        - name: Books
-          url: books/
-          weight: 5 
-        - name: Papers
-          url: papers/
-          weight: 2
-        - name: Courses
-          url: courses/
-          weight: 3
-        - name: Data
-          url: data/
-          weight: 4 
-        - name: Blog
-          url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
-          weight: 6
+    #main:
+        #- name: Books
+        #  url: books/
+        #  weight: 5 
+        #- name: Papers
+        #  url: papers/
+        #  weight: 2
+        #- name: Courses
+        #  url: courses/
+        #  weight: 3
+        #- name: Data
+        #  url: data/
+        #  weight: 4 
+        #- name: Blog
+        #  url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
+        #  weight: 6
 
 params:
     description: "Computational Geophysics Lab at the Earth Observatory of Singapore"
@@ -60,8 +60,10 @@ params:
           imageHeight: 160
           imageTitle: Computational Geophysics Lab
           buttons:
-            #- name: Papers
-            #  url: papers/
+            - name: Group Members
+              url: group_members
+            - name: Papers
+              url: papers/
             #- name: Courses
             #  url: courses/
             #- name: Data

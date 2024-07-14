@@ -64,5 +64,12 @@
       <guid>http://localhost:1313/courses/course2/</guid>
       <description>This undergraduate course discusses profanity in Early Irish.</description>
     </item>
+    <item>
+      <title>Group Members</title>
+      <link>http://localhost:1313/group_members/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/group_members/</guid>
+      <description>List of group members</description>
+    </item>
   </channel>
 </rss>

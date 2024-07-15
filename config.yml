@@ -1,5 +1,5 @@
-baseURL: "https://computational-geophysics-lab.github.io/" 
-title: Computational Geophysics Lab
+baseURL: "https://pascalmichaillat.org/hugo-website/" 
+title: Moritz-Maria von Igelfeld
 paginate: 20
 theme: PaperMod
 
@@ -17,22 +17,22 @@ menu:
         - name: Papers
           url: papers/
           weight: 2
-        #- name: Courses
-        #  url: courses/
-        #  weight: 3
-        #- name: Data
-        #  url: data/
-        #  weight: 4 
-        #- name: Blog
-        #  url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
-        #  weight: 6
+        - name: Courses
+          url: courses/
+          weight: 3
+        - name: Data
+          url: data/
+          weight: 4 
+        - name: Blog
+          url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
+          weight: 6
 
 params:
-    description: "Computational Geophysics Lab at the Earth Observatory of Singapore"
-    author: Luca Dal Zilio
+    description: "I am a Professor of Philology at the Institute of Romance Philology in Regensburg, Germany. My research focuses mostly on Portuguese irregular verbs."
+    author: Moritz-Maria von Igelfeld
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
-    defaultTheme: dark #light
+    defaultTheme: light
     hideFooter: false
     disableThemeToggle: true
     ShowShareButtons: false
@@ -43,7 +43,7 @@ params:
     ShowBreadCrumbs: false
     ShowCodeCopyButtons: true
     ShowAllPagesInArchive: false
-    MainSections: #["books","courses","papers","data"]
+    MainSections: ["books","courses","papers","data"]
     ShowToc: false
     disableScrollToTop: true
     TocOpen: true
@@ -53,51 +53,49 @@ params:
     math: true
     profileMode:
           enabled: true
-          title: Computational Geophysics Lab
-          subtitle: "Welcome to the Computational Geophysics Lab at Nanyang Technological University (NTU) and the Earth Observatory of Singapore (EOS). Our group develops and applies state-of-the-art simulations to address critical challenges in Geohazards and Geoenergy systems monitoring."
-          imageUrl: "cgl.jpeg"
+          title: Professor Dr von Igelfeld
+          subtitle: "I am a Professor in the Institute of Romance Philology at the University of Regensburg, Germany. My research focuses on Portuguese irregular verbs. I was a doctoral student of Professor Dr Dieter Vogelsang in Munich, and later a second assistant of Professor Walter Schoeffler-Henschell at the University of Wiesbaden."
+          imageUrl: "picture.jpeg"
           imageWidth: 160
           imageHeight: 160
-          imageTitle: Computational Geophysics Lab
+          imageTitle: Moritz-Maria von Igelfeld
           buttons:
-            #- name: Group Members
-            #  url: group_members
             - name: Papers
               url: papers/
-            #- name: Courses
-            #  url: courses/
-            #- name: Data
-            #  url: data/
-            #- name: Books
-            #  url: books/
-            #- name: Tags
-            #  url: tags/
-            #- name: Archive
-            #  url: archive/
-            #- name: Blog
-            #  url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
+            - name: Courses
+              url: courses/
+            - name: Data
+              url: data/
+            - name: Books
+              url: books/
+            - name: Tags
+              url: tags/
+            - name: Archive
+              url: archive/
+            - name: Blog
+              url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
 
     socialIcons:
-        #- name: CV
-        #  url: #cv.pdf
-        #- name: Email
-        #  url: mailto:computational.geophysics.lab@gmail.com
-        #- name: Zoom
-        #  url: #https://www.zoom.us/my/igelfeld
-        #- name: Location
-        #  url: location/
-        #- name: Office Hours
-        #  url: officehours/
-        #- name: Google Scholar
-        #  url: https://scholar.google.com/citations?user=nvfIto8AAAAJ&hl=en
-        #- name: GitHub
-        #  url: https://github.com/computational-geophysics-lab
-        #- name: Substack
-        #  url: #https://pmichaillat.substack.com
-        #- name: YouTube
-        #  url: #https://www.youtube.com/@alexandermccallsmithoffici9000
-        #- name: Twitter
-        #  url: #https://twitter.com/McCallSmith
+        - name: CV
+          url: cv.pdf
+        - name: Email
+          url: mailto:moritz.maria.von.igelfeld@gmail.com
+        - name: Zoom
+          url: https://www.zoom.us/my/igelfeld
+        - name: Location
+          url: location/
+        - name: Office Hours
+          url: officehours/
+        - name: Google Scholar
+          url: https://scholar.google.com/citations?user=cL23w-4AAAAJ
+        - name: GitHub
+          url: https://github.com/pmichaillat
+        - name: Substack
+          url: https://pmichaillat.substack.com
+        - name: YouTube
+          url: https://www.youtube.com/@alexandermccallsmithoffici9000
+        - name: Twitter
+          url: https://twitter.com/McCallSmith
 
     assets:
         disableScrollBarStyle: true
@@ -105,7 +103,7 @@ params:
         hiddenInList: false
         hiddenInSingle: true
     label:
-      text: "Computational Geophysics Lab"
+      text: "Moritz-Maria von Igelfeld"
       icon: favicon.ico
       iconHeight: 18
 

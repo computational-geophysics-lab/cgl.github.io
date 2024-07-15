@@ -62,8 +62,8 @@ params:
           buttons:
             - name: Group Members
               url: group_members
-            #- name: Papers
-            #  url: papers/
+            - name: Papers
+              url: papers/
             #- name: Courses
             #  url: courses/
             #- name: Data

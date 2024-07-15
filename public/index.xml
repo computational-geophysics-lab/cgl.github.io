@@ -65,13 +65,11 @@
       <description>This undergraduate course discusses profanity in Early Irish.</description>
     </item>
     <item>
-      <title></title>
-      <link>http://localhost:1313/group_members/</link>
+      <title>People</title>
+      <link>http://localhost:1313/people/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/group_members/</guid>
-      <description>Group Members Luca Dal Zilio, Assistant Professor of Geophysics
-Principal Investigator (PI), Earth Observatory of Singapore (EOS)
-Asian School of the Environment (ASE), Nanyang Technological University (NTU) </description>
+      <guid>http://localhost:1313/people/</guid>
+      <description>Group members of the Computational Geophysics Lab</description>
     </item>
   </channel>
 </rss>

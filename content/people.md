@@ -1,4 +1,8 @@
-<h1 style="margin-left: -50px; margin-right: -50px;">Group Members</h1>
+---
+title: "People"
+description: "Group members of the Computational Geophysics Lab"
+layout: "people"
+---
 
 <div style="display: flex; align-items: center; margin-left: -50px; margin-right: -50px;">
   <img src="https://computational-geophysics-lab.github.io/cgl.github.io/luca_dal_zilio.jpg" style="width:150px; margin-right: 20px;">

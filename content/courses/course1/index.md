@@ -1,7 +1,7 @@
 ---
 title: "Lectures at the Villa of Reduced Circumstances"
 date: 2003-03-10
-lastmod: 2024-05-08
+lastmod: 2024-07-12
 tags: ["Romance languages","philology","irregular verbs","Spanish","Portuguese"]
 author: "Moritz-Maria von Igelfeld"
 description: "This graduate course presents classical results in Romance philology." 
@@ -26,7 +26,13 @@ This course covers research topics related to Romance philology. It focuses espe
 + How are Portuguese irregular verbs different from Spanish irregular verbs? 
 + What is the role of Latin and Greek in these irregularities? 
 + What about irregular verbs in other Romance languages?
-
+    + Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+tempor incididunt ut labore et dolore magna aliqua. 
+    + Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+    + Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+    + Excepteur sint occaecat cupidatat non proident.
+    
+Sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 ## Part 1: Review of Romance languages
 
@@ -36,9 +42,9 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 ##### Lecture videos
 
-+ [Lecture video 1](https://youtu.be/3MZeJED2yns)
-+ [Lecture video 2](https://youtu.be/a2tbm5ljZJM)
-+ [Lecture video 3](https://youtu.be/79MSNfp1rw0)
++ [Lecture video 1](https://youtu.be/3MZeJED2yns) – This is a first lecture video.
++ [Lecture video 2](https://youtu.be/8ihJsf-AXdA) – This is a another lecture video.
++ [Lecture video 3](https://youtu.be/79MSNfp1rw0) – This is a third lecture video. It is quite short.
 
 ##### Lecture notes
 
@@ -46,10 +52,9 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 ##### Readings
 
-+ [Paper 1](https://pascalmichaillat.org/1.pdf) – This paper finds things.
-+ [Paper 2](https://pascalmichaillat.org/2.pdf) – This paper reviews things.
-+ [Paper 3](https://pascalmichaillat.org/4.pdf) – This paper reviews more things and derives some results.
-
++ [Paper 1](https://pascalmichaillat.org/1.pdf) – This is a first paper to read.
++ [Paper 2](https://pascalmichaillat.org/2.pdf) – This paper builds on the first one.
++ [Paper 3](https://pascalmichaillat.org/4.pdf) – This paper is more complex.
 
 ## Part 2: Portugese irregular verbs
 
@@ -57,8 +62,8 @@ This section introduces Portugese irregular verbs. Lorem ipsum dolor sit amet, c
 
 ##### Lecture videos
 
-+ [Lecture video 4](https://youtu.be/tU0dtS9iiOk)
-+ [Lecture video 5](https://youtu.be/GMIKykwvrGI)
++ [Lecture video 4](https://youtu.be/IZI0_WwIyb8)
++ [Lecture video 5](https://youtu.be/Qz7CCB1-gu8)
 + [Lecture video 6](https://youtu.be/79MSNfp1rw0)
 
 ##### Lecture notes
@@ -67,8 +72,8 @@ This section introduces Portugese irregular verbs. Lorem ipsum dolor sit amet, c
 
 ##### Readings
 
-+ [Paper 4](https://pascalmichaillat.org/5.pdf) – This paper shows things. (Details about the results are presented in the paper's [online appendix](https://pascalmichaillat.org/5a.pdf).)
-+ [Paper 5](https://pascalmichaillat.org/3.pdf) – This paper shows other things. (The paper's [online appendix](https://pascalmichaillat.org/3a.pdf) explains the construction of the data.)
++ [Paper 4](https://pascalmichaillat.org/5.pdf) – This paper computes things. (Details about the simulations are presented in the paper's [online appendix](https://pascalmichaillat.org/5a.pdf).)
++ [Paper 5](https://pascalmichaillat.org/3.pdf) – This paper proves things. (The paper's [online appendix](https://pascalmichaillat.org/3a.pdf) contains long proofs and extensions of the results.)
 
 
 ## Part 3: Spanish irregular verbs
@@ -79,17 +84,16 @@ This section quickly discusses irregular verbs in Spanish. Lorem ipsum dolor sit
 
 + [Lecture video 7](https://youtu.be/pIS8-mXG1oY)
 + [Lecture video 8](https://youtu.be/FUaeNM8_fxs)
-+ [Lecture video 9](https://youtu.be/kDZ65v3ZNjc)
-+ [Lecture video 10](https://youtu.be/mbaWDVl3A10)
-+ [Lecture video 11](https://youtu.be/e7TKoZOplb4)
-+ [Optional lecture video: extensions of the results](https://youtu.be/xjHVrx7jfdY)
++ [Optional lecture video](https://youtu.be/xjHVrx7jfdY)
 
-##### Optional readings
+##### Basic readings
 
-+ [Paper 6](https://pascalmichaillat.org/10.pdf) – This paper finds complicated patterns in the data.
-+ [Paper 7](https://pascalmichaillat.org/11.pdf) – This paper reviews data on verbs.
-+ [Paper 8](https://pascalmichaillat.org/12.pdf) – This paper characterizes more things and derives some results.
++ [Paper 6](https://pascalmichaillat.org/10.pdf)
 
+##### Advanced readings
+
++ [Paper 7](https://pascalmichaillat.org/11.pdf)
++ [Paper 8](https://pascalmichaillat.org/12.pdf)
 
 ## Conclusion
 

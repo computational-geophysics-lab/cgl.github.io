@@ -60,8 +60,8 @@ params:
           imageHeight: 160
           imageTitle: Computational Geophysics Lab
           buttons:
-            #- name: Group Members
-            #  url: group_members
+            - name: Group Members
+              url: group_members
             - name: Papers
               url: papers/
             #- name: Courses

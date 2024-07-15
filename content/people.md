@@ -9,7 +9,8 @@ layout: "people"
   <div>
     <strong>Luca Dal Zilio</strong>, Assistant Professor of Geophysics<br>
     Principal Investigator (PI), Earth Observatory of Singapore (EOS)<br>
-    Asian School of the Environment (ASE), Nanyang Technological University (NTU)
+    Asian School of the Environment (ASE), Nanyang Technological University (NTU)<br>
+    [ <a href="https://www.lucadalzilio.net" target="_blank">personal webpage</a> ]
   </div>
 </div>
 

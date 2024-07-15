@@ -11,12 +11,12 @@ taxonomies:
 
 menu:
     main:
-        - name: Books
-          url: books/
-          weight: 5 
-        - name: Papers
-          url: papers/
-          weight: 2
+        #- name: Books
+        #  url: books/
+        #  weight: 5 
+        #- name: Papers
+        #  url: papers/
+        #  weight: 2
         #- name: Courses
         #  url: courses/
         #  weight: 3
@@ -29,7 +29,7 @@ menu:
 
 params:
     description: "Computational Geophysics Lab at the Earth Observatory of Singapore"
-    author: Luca Dal Zilio
+    author: 
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
     defaultTheme: dark #light

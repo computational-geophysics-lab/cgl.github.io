@@ -29,7 +29,7 @@ menu:
 
 params:
     description: "Computational Geophysics Lab at the Earth Observatory of Singapore"
-    author: Luca Dal Zilio
+    author: 
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
     defaultTheme: light
@@ -60,8 +60,8 @@ params:
           imageHeight: 160
           imageTitle: Computational Geophysics Lab
           buttons:
-            - name: Group Members
-              url: group_members
+            #- name: Group Members
+            #  url: group_members
             #- name: Papers
             #  url: papers/
             #- name: Courses

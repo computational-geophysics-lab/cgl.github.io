@@ -1,6 +1,4 @@
 ---
-title: "People"
-description: "Group members of the Computational Geophysics Lab"
 layout: "people"
 ---
 

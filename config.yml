@@ -11,12 +11,12 @@ taxonomies:
 
 menu:
     main:
-        - name: Books
-          url: books/
+        - name: People
+          url: people/
           weight: 5 
-        #- name: Papers
-        #  url: papers/
-        #  weight: 2
+        - name: Publications
+          url: publications/
+          weight: 2
         #- name: Courses
         #  url: courses/
         #  weight: 3

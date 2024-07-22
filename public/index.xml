@@ -74,5 +74,14 @@ Principal Investigator (PI), Earth Observatory of Singapore (EOS)
 Asian School of the Environment (ASE), Nanyang Technological University (NTU)
 [ personal webpage ] </description>
     </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/publications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/</guid>
+      <description>Google Scholar profile
+Peer-reviewed papers [ * MSc/PhD/Post-doc (co-)advised ] [31] Gualandi, A., Dal Zilio, L., Faranda, D., &amp;amp; Mengaldo, G. (2024). Similarities and differences between natural and simulated slow earthquakes. Geophysical Research Letters, 51, e2024GL109845. [ PDF ]
+[30] Bianchi, P., Selvadurai, P.A., Dal Zilio, L., Salazar Vásquez, A., Madonna, C., Gerya, T. and Wiemer, S., (2024). Pre-Failure Strain Localization in Siliclastic Rocks: A Comparative Study of Laboratory and Numerical Approaches.</description>
+    </item>
   </channel>
 </rss>

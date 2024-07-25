@@ -49,3 +49,12 @@ layout: "people"
   </div>
 </div>
 
+<div class="member-container">
+  <img src="https://computational-geophysics-lab.github.io/cgl.github.io/jiayi.png" alt="Jiayi Ye">
+  <div>
+    <strong>Jiayi Ye</strong>, PhD student<br>
+    Federal Institute of Technology Zurich (ETH Zurich)<br>
+    Institute of Geophysics, Department of Earth and Planetary Sciences<br>
+    [ <a href="https://erdw.ethz.ch/en/people/profile.MjgzNDI1.TGlzdC83NzMsOTI0MjA1OTI2.html" target="_blank">personal webpage</a> ]
+  </div>
+</div>

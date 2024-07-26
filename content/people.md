@@ -58,3 +58,13 @@ layout: "people"
     [ <a href="https://erdw.ethz.ch/en/people/profile.MjgzNDI1.TGlzdC83NzMsOTI0MjA1OTI2.html" target="_blank">personal webpage</a> ]
   </div>
 </div>
+
+<div class="member-container">
+  <img src="https://computational-geophysics-lab.github.io/cgl.github.io/jiayi.png" alt="Danyang Jiang">
+  <div>
+    <strong>Danyang Jiang</strong>, PhD student<br>
+    Federal Institute of Technology Zurich (ETH Zurich)<br>
+    Swiss Seismological Service<br>
+    [ <a href="http://www.seismo.ethz.ch/en/about-us/all-employees/danyang-jiang/" target="_blank">personal webpage</a> ]
+  </div>
+</div>

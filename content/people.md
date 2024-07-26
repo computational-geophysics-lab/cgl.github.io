@@ -60,7 +60,7 @@ layout: "people"
 </div>
 
 <div class="member-container">
-  <img src="https://computational-geophysics-lab.github.io/cgl.github.io/jiayi.png" alt="Danyang Jiang">
+  <img src="https://computational-geophysics-lab.github.io/cgl.github.io/danyang.png" alt="Danyang Jiang">
   <div>
     <strong>Danyang Jiang</strong>, PhD student<br>
     Federal Institute of Technology Zurich (ETH Zurich)<br>

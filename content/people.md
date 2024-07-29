@@ -50,6 +50,16 @@ layout: "people"
 </div>
 
 <div class="member-container">
+  <img src="https://computational-geophysics-lab.github.io/cgl.github.io/giuseppe.png" alt="Giuseppe Petrillo">
+  <div>
+    <strong>Giuseppe Petrillo</strong>, Research Fellow<br>
+    Earth Observatory of Singapore (EOS)<br>
+    Nanyang Technological University (NTU)<br>
+    [ <a href="https://scholar.google.it/citations?user=PMH0LM4AAAAJ&hl=it" target="_blank">personal webpage</a> ]
+  </div>
+</div>
+
+<div class="member-container">
   <img src="https://computational-geophysics-lab.github.io/cgl.github.io/jiayi.png" alt="Jiayi Ye">
   <div>
     <strong>Jiayi Ye</strong>, PhD student<br>
